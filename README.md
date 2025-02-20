@@ -16,6 +16,10 @@ The repository provides a benchmark dataset comprising Python and Java source co
 
 The preprocessed dataset can be found in the `preprocessed_data/` directory.
 
+## Experiment Setup
+Before running an experiment, navigate to the corresponding folder for the specific experimental setup. 
+For example, if you want to perform the cross-dataset experiment, move to the `cross_dataset/` directory.
+
 ## Project Structure
 ```
 .
@@ -41,6 +45,13 @@ To set up the environment, install the required libraries using:
 ```bash
 pip install -r requirements.txt
 ```
+
+# Hyperparameter Configuration
+To adjust the hyperparameters and experiment settings, modify the 
+```bash
+train_config.py
+```
+file accrodingly.
 
 ## Usage
 Run train.py
