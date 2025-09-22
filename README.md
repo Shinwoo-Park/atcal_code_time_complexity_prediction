@@ -1,4 +1,4 @@
-# @CAL: Advanced Code Time Complexity Prediction Approach Using Contrastive Learning
+# @CAL: Advanced Code Time Complexity Prediction Approach Using Contrastive Learning (In Engineering Applications of Artificial Intelligence, Vol. 151, 110631, July 2025)
 
 ## Project Description
 This repository contains the source code and dataset for implementing **@CAL**, a contrastive learning-based approach for code time complexity prediction.  
